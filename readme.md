@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Read me
 
 Hello!
@@ -25,4 +24,3 @@ Hello!
 - using open 'readme.md' allows you to open the markdown file associated with the uploaded Github repo.
 - once you edit and save the markedown file in your notebook (mine is pulsar), you can add and commit that markdown file.
 - Lastly, using git push origin 'name' will push the updates up onto Github for you to view your new branches.
->>>>>>> Notes
